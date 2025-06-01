@@ -6,11 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashyaprparmar" alt="kashyaprparmar" /></a> </p>
 
 - 🔭 I’m currently working on [PipeLM](https://github.com/kashyaprparmar/PipeLM)
-
-- 🌱 I’m currently learning **Kubernetes**
+- 
+- 🌱 I’m currently learning **Kubernetes with ML**
 
 - 👯 I’m looking to collaborate on [PipeLM](https://github.com/kashyaprparmar/PipeLM)
-
+- 
+- 🌐 Check out my portfolio: [kashyaps-ai-resume](https://kashyaps-ai-resume-84ddehqb5-kashyaprparmars-projects.vercel.app/)
+  
 - 💬 Ask me about **Python | SLMs | NLP | CUDA | Langchain | Llama-Index | NoSQL | MongoDB | Machine Learning | Vector DB | AI Agents | Ollama | AWS Cloud | Data Science | Data Analysis | LLMs | Huggingface | Transformers | Streamlit | PowerBI | FastAPI**
 
 - 📫 How to reach me **kashyaprparmar@gmail.com**
